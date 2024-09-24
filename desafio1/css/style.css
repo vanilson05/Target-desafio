@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  pre {
+    background-color: #f0f0f0;
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+
+  button{
+    color: white;
+    background-color: #00c157;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+  }
+
+  button:hover{
+    color: black;
+    background-color:#00ff15;
+  }
